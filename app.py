@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Termometro 10.3")
+ 10.3")
 st.title("🌡️ Termometro 10.3")
 
 n_cs = st.text_input("Nome Casa")
